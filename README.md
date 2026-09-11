@@ -15,12 +15,12 @@ PLIVY는 단순히 음악 제목이나 플레이리스트만 저장하는 것이
 기획 단계의 기능과 실제 구현된 기능을 구분해 표기했습니다.
 
 ------------------------------------------------------------------------
-## Live Demo
+## Project Links
 
-🔗 **PLIVY App**  
-https://plivy-jzov.vercel.app/
-
-> 실제 배포된 PLIVY 서비스 프로토타입을 확인할 수 있습니다.
+- 🌐 **Vercel** — [배포 사이트](https://plivy-jzov.vercel.app/)
+- 🎨 **Figma** — [디자인 페이지](https://www.figma.com/design/VU5NcxQFkR3RgY0yRYK2La/Untitled?node-id=0-1&t=lY2imtRaDfA3VJZ8-1)
+- 🖼️ **Notefolio** — [포트폴리오 보기](https://notefolio.net/hyogu_U2)
+- 📄 **Notion** — [포트폴리오 노션](https://app.notion.com/p/375cedfd0bc08356a2ae817409b561ea?source=copy_link)
 
 
 ## 실제 구현 화면
